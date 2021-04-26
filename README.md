@@ -1,7 +1,7 @@
 ### Famous_Saying
 
 + Firebase Remote Config
-+ ViewPager2
++ ViewPager2(PageTrasnformer : 스와이프할때 흐려지는 효과, 무한스크롤)
 
 ### Remote Config [👉](https://firebase.google.com/docs/remote-config)
 간단하게 말하면 앱을 업데이트하지 않아도 앱의 동작과 모양을 변결할 수 있는 클라우드 서비스  
