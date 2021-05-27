@@ -1,5 +1,6 @@
-### Famous_Saying
+```💡 FastCampus 강의 수강 및 정리```
 
+### Famous_Saying
 + Firebase Remote Config
 + ViewPager2(PageTrasnformer : 스와이프할때 흐려지는 효과, 무한스크롤)
 
@@ -21,4 +22,7 @@
   앱의 다음 시작 시 활성화
   ```
 
-diffUtil 이란??
+
+<img src="https://user-images.githubusercontent.com/63087903/119835158-8b8a3b80-bf3b-11eb-9438-f1ebc6448ffe.jpg" width="200" height="430"> <img src="https://user-images.githubusercontent.com/63087903/119835164-8cbb6880-bf3b-11eb-960a-af20060971ff.jpg" width="200" height="430"> <img src="https://user-images.githubusercontent.com/63087903/119835162-8c22d200-bf3b-11eb-95e5-2df9c8831ba1.jpg" width="200" height="430">
+
+💡 diffUtil 이란??
